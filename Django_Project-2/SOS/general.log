@@ -1,0 +1,11 @@
+django.utils.autoreload  INFO  2024-07-02 13:00:49,761  autoreload 16428  5820  Watching for file changes with StatReloader
+django.utils.autoreload  INFO  2024-07-02 13:02:42,457  autoreload 16428  5820  C:\Users\Dell\PycharmProjects\Django_Project-2\SOS\ORS\urls.py changed, reloading.
+django.utils.autoreload  INFO  2024-07-02 13:02:42,864  autoreload 888  16424  Watching for file changes with StatReloader
+django.request  WARNING  2024-07-02 13:02:52,702  log 888  2912  Not Found: /
+django.request  WARNING  2024-07-02 13:02:52,750  log 888  2912  Not Found: /favicon.ico
+ORS.views  INFO  2024-07-02 13:03:03,224  views 888  12884  division by zero
+ORS.views  DEBUG  2024-07-02 13:03:03,224  views 888  12884  debug message
+ORS.views  INFO  2024-07-02 13:03:03,225  views 888  12884  info message
+ORS.views  WARNING  2024-07-02 13:03:03,225  views 888  12884  warning message
+ORS.views  ERROR  2024-07-02 13:03:03,225  views 888  12884  error message
+ORS.views  CRITICAL  2024-07-02 13:03:03,225  views 888  12884  fatal message
